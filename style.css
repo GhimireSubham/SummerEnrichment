@@ -27,7 +27,7 @@ header {
     padding: 0 30px;
 }
 
-.navContainer
+.container
 {
     display: flex;
     justify-content: space-between;
