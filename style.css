@@ -10,14 +10,14 @@ body {
     margin: auto;
 }
 header {
-    background-color : #2F5F3E ;
+    background-color : #41283e ;
     color : white ;
     padding : 40px 20px ;
     text-align: center ;
     justify-content: space-between;
 }
 
-.navbar 
+.navbar
 {
     background-color: #ffffff;
     border: 1px solid #eeeeee;
